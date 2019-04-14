@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "fmnist_embedding:0"
+  metadata_path: "E:/Artificial_Intelligence_for_Mechatronics/Assignment1/results/summary\\metadata.tsv"
+  sprite {
+    image_path: "E:/Artificial_Intelligence_for_Mechatronics/Assignment1/results/summary\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
